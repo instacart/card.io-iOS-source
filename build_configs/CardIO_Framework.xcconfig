@@ -4,7 +4,6 @@
 //
 //
 
-ARCHS = arm64 armv7 armv7s
 ONLY_ACTIVE_ARCH = NO
 
 GCC_VERSION = com.apple.compilers.llvm.clang.1_0
